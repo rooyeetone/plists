@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.rooyeetone.MPlayer</string>
 				<key>bundle-version</key>
-				<string>2.3.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>魔仆</string>
+				<string>Blue Pearl Messenger</string>
 			</dict>
 		</dict>
 	</array>

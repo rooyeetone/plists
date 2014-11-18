@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://demo.rooyeetone.com:17070/iosipa/midea.ipa</string>
+					<string>http://192.168.0.124/iPhone%E5%AE%A2%E6%88%B7%E7%AB%AF/%E5%AE%A2%E6%88%B7%E5%AE%9A%E5%88%B6/BluePearl/BluePearl.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.midea.mm</string>
+				<string>com.rooyeetone.MPlayer</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>2.3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>美信</string>
+				<string>魔仆</string>
 			</dict>
 		</dict>
 	</array>

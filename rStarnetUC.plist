@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://demo.starnetuc.com/iosipa/StarnetUC_Client_Setup.ipa</string>
+					<string>http://demo.rooyeetone.com:17070/iosipa/StarnetUC.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.rooyeetone.startnetuc</string>
+				<string>com.starnetuc.Zhixin</string>
 				<key>bundle-version</key>
 				<string>1.1.0</string>
 				<key>kind</key>

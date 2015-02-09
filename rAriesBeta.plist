@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.124/iPhone%E5%AE%A2%E6%88%B7%E7%AB%AF/%E4%B8%B4%E6%97%B6%E7%BC%96%E8%AF%91/Aries.ipa</string>
+					<string>http://demo.rooyeetone.com:17070/ariesbeta/AriesBeta.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>rooyeetone.Aries</string>
+				<string>rooyeetone.AriesBeta</string>
 				<key>bundle-version</key>
 				<string>3.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>如意通(Aries)</string>
+				<string>如意通(内部)</string>
 			</dict>
 		</dict>
 	</array>

@@ -12,6 +12,8 @@
 					<string>software-package</string>
 					<key>url</key>
 					<string>http://demo.rooyeetone.com:17070/dchat/Ariesdchat.ipa</string>
+					<key>display-image</key>
+					<string>http://demo.rooyeetone.com:17070/dchat/icon@57.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>

@@ -13,6 +13,14 @@
 					<key>url</key>
 					<string>http://demo.rooyeetone.com:17070/ariesprod/AriesProd.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://demo.rooyeetone.com:17070/ariesprod/icon@57.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>

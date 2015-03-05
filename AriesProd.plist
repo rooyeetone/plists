@@ -15,23 +15,31 @@
 				</dict>
 				<dict>
 					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://demo.rooyeetone.com:17070/aries/icon@120.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://demo.rooyeetone.com:17070/aries/icon@57.png</string>
+					<string>http://demo.rooyeetone.com:17070/aries/icon@120.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>rooyeetone.Aries</string>
+				<string>rooyeetone.AriesProd</string>
 				<key>bundle-version</key>
 				<string>3.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>如意通(内部)</string>
+				<string>如意通</string>
 			</dict>
 		</dict>
 	</array>

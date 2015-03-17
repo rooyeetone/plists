@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>rooyeetone.Aries</string>
+				<string>rooyeetone.PoliceCR</string>
 				<key>bundle-version</key>
 				<string>3.0.1</string>
 				<key>kind</key>

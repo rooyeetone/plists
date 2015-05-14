@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://demo.rooyeetone.com:17070/aries/icon@57.png</string>
+					<string>http://demo.rooyeetone.com:17070/TestAriesProd/icon@57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>

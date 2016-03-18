@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.124/iPhone%E5%AE%A2%E6%88%B7%E7%AB%AF/%E4%B8%B4%E6%97%B6%E7%BC%96%E8%AF%91/idoubs.ipa</string>
+					<string>http://demo.rooyeetone.com:17070/iosipa/idoubsnew.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.rooyeetone.sip</string>
+				<string>rooyeetone.idoubsnew</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>idoubs</string>
+				<string>idoubsnew</string>
 			</dict>
 		</dict>
 	</array>

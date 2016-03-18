@@ -15,6 +15,14 @@
 				</dict>
 				<dict>
 					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://demo.rooyeetone.com:17070/dchat/icon@120.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
 					<true/>
@@ -25,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>rooyeetone.dchat</string>
+				<string>cstnet.dChat</string>
 				<key>bundle-version</key>
-				<string>1.5.0</string>
+				<string>2.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>

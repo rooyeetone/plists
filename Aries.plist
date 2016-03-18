@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://demo.rooyeetone.com:17070/aries/icon@57.png</string>
+					<string>http://demo.rooyeetone.com:17070/aries/icon@120.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>如意通(内部)</string>
+				<string>如意通(测试专用)</string>
 			</dict>
 		</dict>
 	</array>
